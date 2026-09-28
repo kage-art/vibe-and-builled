@@ -1,0 +1,23 @@
+{
+  "name": "MedBridge — Bridging The Gap In Healthcare",
+  "short_name": "MedBridge",
+  "description": "Seamlessly connecting patients, providers, and data to simplify access and optimize care delivery.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#00a8cc",
+  "icons": [
+    {
+      "src": "./medbridge-logo.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
